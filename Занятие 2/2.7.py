@@ -1,4 +1,4 @@
-"# -- coding: utf-8 --"
+# -- coding: utf-8 --
 count = 0
 def f():
    print("Введите первое число")
