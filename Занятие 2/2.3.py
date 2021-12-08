@@ -1,4 +1,4 @@
-"# -- coding: utf-8 --"
+# -- coding: utf-8 --
 def f():
     print("Введите кол-во минут")
     n = int(input())
