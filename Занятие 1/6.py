@@ -1,4 +1,4 @@
-"# -- coding: utf-8 --"
+# -- coding: utf-8 --
 print("Введите x и y")
 x = input()
 y = input()
