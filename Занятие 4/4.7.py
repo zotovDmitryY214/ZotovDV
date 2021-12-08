@@ -1,4 +1,4 @@
-"# -- coding: utf-8 --"
+# -- coding: utf-8 --
 s = input()
 def f(s):
 	ab = s[:s.find('h')]
