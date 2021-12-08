@@ -1,4 +1,4 @@
-"# -- coding: utf-8 --"
+# -- coding: utf-8 --
 print("Введите кол-во секунд")
 seconds = int(input())
 dni = seconds // 86400
