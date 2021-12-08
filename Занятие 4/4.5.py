@@ -1,4 +1,4 @@
-"# -- coding: utf-8 --"
+# -- coding: utf-8 --
 s = input()
 def f(s):
 	if s.count('f') == 1:
