@@ -1,4 +1,4 @@
-"# -- coding: utf-8 --"
+# -- coding: utf-8 --
 n = int(input())
 a = 1
 while n != 0:
