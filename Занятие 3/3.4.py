@@ -1,4 +1,4 @@
-"# -- coding: utf-8 --"
+# -- coding: utf-8 --
 n = int(input())
 s = 0
 def f(n,s):
