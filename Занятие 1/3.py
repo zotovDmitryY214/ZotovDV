@@ -1,4 +1,4 @@
-"# -- coding: utf-8 --"
+# -- coding: utf-8 --
 print("Введите свой возраст")
 age=int(input())
 print("Вас зовут Иван?(0 - нет, 1 - да)")
