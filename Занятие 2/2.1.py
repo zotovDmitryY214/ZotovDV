@@ -1,4 +1,4 @@
-"# -- coding: utf-8 --"
+# -- coding: utf-8 --
 def sum():
     print("Введите первое число")
     a = int(input())
