@@ -1,4 +1,4 @@
-"# -- coding: utf-8 --"
+# -- coding: utf-8 --
 a = input()
 def f(s):
 	s = (a[len(a) // 2:] + a[:len(a) // 2])
