@@ -1,4 +1,4 @@
-"# -- coding: utf-8 --"
+# -- coding: utf-8 --
 def f():
    print("Введите номер столбца первой клетки(1-8)")
    x1 = int(input())
