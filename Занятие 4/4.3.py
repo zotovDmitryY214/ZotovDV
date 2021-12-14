@@ -1,8 +1,10 @@
 # -- coding: utf-8 --
-s = input()
-def f(s):
-	a = (s[len(s) // 2:] + s[:len(s) // 2])
-	print(a)
-f(s)
+def f():
+    print("Введите строку")
+    s = str(input())
+    a = len(s) // 2 + len(s) % 2
+    b = (s[a:] + s[:a])
+    return b
+print(f())
 
 
